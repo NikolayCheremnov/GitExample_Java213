@@ -3,6 +3,7 @@ package org.top;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        User user = new User("test");
+        System.out.println(user);
     }
 }
