@@ -16,5 +16,9 @@ public class Main {
 
     public static void main(String[] args) {
         testStorage();
+
+        // git status - сведения о репозитории
+        // git add - добавить файлы в гит
+        // git commit
     }
 }
